@@ -1,2 +1,2 @@
 # gary_cpp
-Code repo for Gary's daily practice
+我是一名信奥小学生，今年5年级
